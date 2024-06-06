@@ -47,7 +47,7 @@ footer = """
     }
     </style>
     <div class="footer">
-        <p>Check out my GitHub portfolio: <a href="https://github.com/your-username" target="_blank">your-username</a></p>
+        <p>Check out my GitHub portfolio: <a href="https://github.com/fouzan-akhter" target="_blank">fouzan-akhter</a></p>
     </div>
 """
 st.markdown(footer, unsafe_allow_html=True)
